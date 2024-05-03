@@ -178,6 +178,14 @@ JSR = JavaScript Registry
   - => require sync esm で検索
 
 ---
+### FAQ: JSR って Deno のためのものではないの?
+
+- JSR の開発者は今のところ Deno の開発者が多い
+- Deno のためのより良いレジストリを作りたいと言うのがモチベーションの1つとしてあった
+- 設計を進める中で、Deno に限らず、すべてのランタイムのためのレジストリを作るべきという目的意識に変わっていった
+- Deno は JSR でマネタイズする予定はない
+
+---
 class: middle center
 
 # <p class="flex items-center justify-center gap-2">Let's try <img src="./assets/logo.png" width="180" /></p>
@@ -187,4 +195,3 @@ class: middle center
 --
 
 ご清聴ありがとうございました 🙇‍♂️
-
