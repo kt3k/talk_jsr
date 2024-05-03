@@ -13,11 +13,10 @@ class: text-4xl
 
 - JSR の狙い
 - JSR の特徴
-- JSR の使い方
 
 ---
 
-# Yoshiya Hinosawa @kt3k
+## 話す人: Yoshiya Hinosawa @kt3k
 
 <img src="./assets/hinosawa.jpg" width="180" />
 
