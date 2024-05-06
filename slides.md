@@ -101,7 +101,7 @@ JSR = JavaScript Registry
 
 ---
 
-# npn 互換性
+# npm 互換性
 
 - JSR パッケージから npm パッケージを使える
 - npm パッケージから JSR パッケージを使える
